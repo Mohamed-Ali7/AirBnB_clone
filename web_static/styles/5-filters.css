@@ -20,7 +20,7 @@
     margin-right: 30px;
 }
 
-.filters:hover button{
+.filters button:hover{
     opacity: 90%;
 }
 
@@ -42,8 +42,6 @@
     font-weight: 600;
     margin: 0;
 }
-
-
 
 .locations h4, .amenities h4{
     font-size: 14px;
