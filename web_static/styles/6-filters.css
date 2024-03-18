@@ -63,6 +63,7 @@
     top: 100%;
     padding-left: 9%;
     padding-top: 35px;
+    z-index: 100;
 }
 .locations .popover h2{
     margin: 0;
